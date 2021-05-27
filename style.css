@@ -1,0 +1,22 @@
+body{
+    background-image: url(background.jpg);
+}
+.gghhttyy{
+float:center;
+margin-left: 400px;
+border-radius: 2%;
+box-shadow: 2px 2px 15px black;
+}
+
+.anyname{
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
+    background-color: grey;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+canvas{
+    bottom: +500000000000000000px ;
+}
